@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Assignment 1 of the Data Scientist's Toolkit Course
+Repository of my Data Science Course Work
